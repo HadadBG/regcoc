@@ -1,5 +1,5 @@
 # regcoc
 
-comando:
-yarn
+comandos:</br>
+yarn</br>
 yarn dev
